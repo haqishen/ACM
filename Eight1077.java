@@ -1,5 +1,4 @@
-package BFS;
-
+// This is a BFS problem
 import java.io.*;
 import java.util.*;
 
