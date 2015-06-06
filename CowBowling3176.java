@@ -1,4 +1,4 @@
-package DP;
+// This is a dynamic programming problem
 
 import java.util.*;
 
