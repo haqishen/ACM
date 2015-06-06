@@ -1,4 +1,4 @@
-package Dijkstra;
+// This is a Dijkstra problem
 
 import java.io.*;
 import java.util.*;
