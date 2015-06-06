@@ -1,4 +1,4 @@
-package DFS;
+// This is a DFS problem
 import java.io.*;
 import java.util.*;
 
